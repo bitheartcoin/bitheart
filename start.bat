@@ -1,0 +1,1 @@
+xmrig.exe --algo=rx/arq
